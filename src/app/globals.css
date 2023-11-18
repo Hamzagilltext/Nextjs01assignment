@@ -1,0 +1,53 @@
+/*@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}*/
+
+body {
+  color: brown;
+background-color: black;
+}
+#para1{
+
+color: blue;
+padding-left: 2rem;
+
+}
+#para{
+font: bold;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+padding-right: 25rem;
+
+}
+#para4{
+
+color: yellow;
+}
+#para3{
+color: beige;
+}
+#para5{
+color: darkgreen;
+font-weight: bold;
+font-family: inherit;
+
+
+}
+#para2{
+
+  color: yellow;
+}
+
